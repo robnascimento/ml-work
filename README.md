@@ -4,8 +4,8 @@ This is a repository that contains project's files, where I gain hands-on practi
 
 Many of the code used in these files are adapted from the following source:
 
-* [https://machinelearningmastery.com/](machinelearningmastery.com)
-* [https://scikit-learn.org/](scikit-learn.org)
+* [machinelearningmastery.com](https://machinelearningmastery.com/)
+* [scikit-learn.org][https://scikit-learn.org/]
 * Aurélien Géron, _`Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow`_, Oreilly, 2019.
 * Ankur A. Patel, _`Hands-On Unsupervised Learning Using Python`_, Oreilly, 2019.
 
